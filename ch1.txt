@@ -1,1 +1,3 @@
-This is chapter one of story. Changes to this part will show up now. 
+This is chapter one of story. Changes to this part will show up now.
+This is done using VIM editor. 
+Now I am changing this on the alien branch.  
